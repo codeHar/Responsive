@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'insta';
+  cardTitles=["default","big","small","default","big","small"]
 }

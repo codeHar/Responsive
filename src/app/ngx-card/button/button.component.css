@@ -1,0 +1,23 @@
+.btn{
+    margin:3px;
+    border: 1px solid black;
+}
+.default{
+    font-size:12px;
+    margin:3px;
+    padding:3px 1em;
+}
+
+.big{
+    font-size:55px;
+    background-color:dodgerblue;
+    padding:3px 7px;
+
+}
+
+.small{
+    font-size:10px;
+    background-color:red;
+    padding:3px 1em;
+
+}
